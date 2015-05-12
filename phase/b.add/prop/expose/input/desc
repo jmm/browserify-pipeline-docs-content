@@ -1,0 +1,1 @@
+If the property exists, then <code>args.opts.expose</code>. Otherwise, <code>false</code>.

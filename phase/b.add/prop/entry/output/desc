@@ -1,0 +1,1 @@
+If <code>inRow.entry === undefined</code>, then <code>false</code>. Otherwise, <code>inRow.entry</code>.

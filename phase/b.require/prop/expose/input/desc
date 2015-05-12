@@ -1,0 +1,7 @@
+<p>
+If a string, the module will be exposed via this value in a <code>require()</code> function exported by the bundle.
+</p>
+
+<p>
+If <code>args.file.expose</code> or <code>args.opts.expose</code> is truthy (in that order), that value.
+</p>

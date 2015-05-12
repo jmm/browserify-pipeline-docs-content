@@ -1,0 +1,1 @@
+A truthy <code>file</code> value will be resolved via browser-resolve to attempt to locate the module, even if <code>id</code> is also truthy.

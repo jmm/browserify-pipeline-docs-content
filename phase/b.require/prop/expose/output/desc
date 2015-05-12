@@ -1,0 +1,1 @@
+The rules are complex, but if <code>inRow.expose</code> is truthy or <code>inRow.entry</code> is falsy, <code>expose</code> will <em>generally</em> be set to <code>outRow.id</code>.

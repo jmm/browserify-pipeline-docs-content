@@ -1,0 +1,3 @@
+<p>
+<code><a href="https://github.com/substack/node-browserify/blob/10.0.0/readme.markdown#baddfile-opts">browserify()</a>|<a href="https://github.com/substack/node-browserify/blob/10.0.0/readme.markdown#baddfile-opts">b.add()</a></code>. Technically before the pipeline. Creates <code>row</code> objects and writes them to the pipeline. Documentation is scant on what the <code>file</code> argument may consist of. In some cases, such as when <code>file</code> is an array, it may be possible to pass <code>row</code> objects. Proxies to <code>b.require()</code> with certain options (see input row props).
+</p>

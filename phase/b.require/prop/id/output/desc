@@ -1,0 +1,1 @@
+If <code>inRow.id</code> is falsy and <code>inRow.expose</code> is truthy, a complex set of rules apply that determine what <code>id</code> will be set to. If <code>!(inRow.id || inRow.expose || opts.exposeAll)</code>, <code>id</code> will be set to <code>outRow.file</code>.

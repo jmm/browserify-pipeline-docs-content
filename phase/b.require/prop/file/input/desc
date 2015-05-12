@@ -1,0 +1,1 @@
+<code>filePath</code> and <code>fileObj.file</code> become the <code>file</code> property of the corresponding row pushed to the pipeline.

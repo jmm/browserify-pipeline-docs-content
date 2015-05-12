@@ -1,0 +1,1 @@
+If <code>inRow.id</code> was truthy it's passed through. Otherwise, the value of <code>outRow.file</code>.

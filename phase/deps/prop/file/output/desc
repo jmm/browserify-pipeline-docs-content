@@ -1,0 +1,1 @@
+If <code>inRow.file</code> was truthy it's passed through. Otherwise it will be populated with the absolute pathname.

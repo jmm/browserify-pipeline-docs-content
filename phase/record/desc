@@ -1,0 +1,3 @@
+<p>
+First actual pipeline phase. Records rows written to the pipeline by <code>prePipeline</code> and holds them until <code>b.emit('bundle')</code>.
+</p>

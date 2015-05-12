@@ -1,0 +1,1 @@
+If the property exists, then <code>args.opts.entry</code>. Otherwise, <code>true</code>.

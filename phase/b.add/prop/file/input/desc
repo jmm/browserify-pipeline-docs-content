@@ -1,0 +1,1 @@
+A <code>filePath</code> becomes the <code>file</code> property of the corresponding row pushed to the pipeline. <code>filePath</code> values added via <code>browserify()|b.add()</code> are pseudo-resolved by being appended to <code>basedir</code>.

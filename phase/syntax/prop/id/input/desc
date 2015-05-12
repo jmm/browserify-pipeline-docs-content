@@ -1,0 +1,1 @@
+If <code>file</code> isn't truthy, passed to syntax-error as <code>file</code> arg.
